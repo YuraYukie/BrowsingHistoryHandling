@@ -1,0 +1,114 @@
+{
+   "extName": {
+      "message": "Private Search History",
+      "description": ""
+   },
+   "extDesc": {
+      "message": "Search the web without tracking your search history or any personally identifiable information",
+      "description": ""
+   },
+   "default_title": {
+      "message": "Private Search History Setting",
+      "description": ""
+   },
+   "tracking_protection": {
+      "message": "Tracking Protection",
+      "description": ""
+   },
+   "about_subtitle": {
+      "message": " The extension detects and redirects non-private searches to MyPrivateSearch.com privacy-enhanced search results.<br>Protects you from tracking by other search engines. <a  target='_blank' href='https://www.myprivatesearch.com/about'><span class='learn-more'>Learn more.</span></a>",
+      "description": ""
+   },
+   "about_learnmore": {
+      "message": "Learn more.",
+      "description": ""
+   },
+   "about_search_placeholder": {
+      "message": "Search privately",
+      "description": ""
+   },
+   "about_search_btn": {
+      "message": "GO!",
+      "description": ""
+   },
+   "about_Settings": {
+      "message": "Settings",
+      "description": ""
+   },
+   "about_Settings_se": {
+      "message": "Blocked Search Engines",
+      "description": ""
+   },
+   "about_Settings_protect": {
+      "message": "Privacy Protection Status",
+      "description": ""
+   },
+   "about_Settings_protect_enabled": {
+      "message": "Privacy Protection is enabled",
+      "description": ""
+   },
+   "about_Settings_protect_disabled": {
+      "message": "Privacy Protection is disabled",
+      "description": ""
+   },
+   "about_Setting_choose_block": {
+      "message": "Choose which search engines to block",
+      "description": ""
+   },
+   "about_Setting_choose_block_tooltip": {
+      "message": "Choose the search engines you wish to stay protected from. By choosing a search engine here, you will be protected from any form of tracking by that engine",
+      "description": ""
+   },
+   "about_Setting_enable": {
+      "message": "Enable Private Search Plus",
+      "description": ""
+   },
+   "about_Setting_enable_tooltip": {
+      "message": "Click if you wish to be tracked for one session. The session ends when all browser windows are closed.",
+      "description": ""
+   },
+   "about_Settings_incognito":{
+      "message":"Open incognito window",
+      "description":""
+   },
+   "about_Settings_incognito_tooltip":{
+      "message":"Open a new browser window in Incognito mode. Remember, incognito mode does not hide you completely. Enabling MyPrivateSearch extension in Incognito mode is recommended.",
+      "description":""
+   },
+   "about_Feedback": {
+      "message": "Feedback:",
+      "description": ""
+   },
+   "about_Feedback_like": {
+      "message": "I like this extension",
+      "description": ""
+   },
+   "about_Feedback_nolike": {
+      "message": "I don’t like this extension",
+      "description": ""
+   },
+   "about_Feedback_share": {
+      "message": "Share with friends",
+      "description": ""
+   },
+   "about_home": {
+      "message": "Home",
+      "description": ""
+   },
+   "about_help": {
+      "message": "Help",
+      "description": ""
+   },
+   "about_terms": {
+      "message": "Terms",
+      "description": ""
+   },
+   "about_privacy": {
+      "message": "Privacy",
+      "description": ""
+   },
+   "about_select_placeholder": {
+      "message": "Select Search Engines",
+      "description": ""
+   }
+}

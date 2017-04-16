@@ -1,0 +1,33 @@
+{
+  "name": "Browser History Handling",
+  "version": "1.0.0",
+  "description": "Browser History Handling",
+  "icons": {
+    "128": "icons/icon128.png",
+    "16": "icons/icon16.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "38": "icons/icon38.png"
+    },
+    "default_title": "Browser History Handling",
+    "default_popup": "about/index.html"
+  },
+  "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+  "permissions": [
+    "http://*/*",
+    "https://*/*",
+    "webRequest",
+    "webRequestBlocking",
+    "privacy",
+    "storage",
+    "cookies",
+    "history",
+    "tabs",
+    "contextMenus",
+    "browsingData"
+  ],
+  "manifest_version": 2,
+  "author": "myappline",
+  "default_locale": "en"
+}
